@@ -7,6 +7,13 @@
     <link rel="stylesheet" href="main.css">
 </head>
   <body>
-
+    <form method="post">
+        <label for="name">Name: </label><input type="text" id="name" name="name" style="width:200px"><br>
+        <label for="att">Attributes: </label><input type="text" id="att" name="att" style="width:48%">
+        <input type="submit" value="Send">
+    </form>
+      <div id="Addition"></div>
+      <input type="button" onclick="newMes()" value="Add Attribute" id="add">
+      <script>function newMes(){document.getElementById("Addition").innerHTML = '<div class="message">Add Message<br>Title: <input type="text" id="title"><br>Text: <input type="text" id="message"><br><br></div>';};</script>
   </body>
 </html>

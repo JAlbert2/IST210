@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58b35b2d-b7ce-4bca-86d7-4efef9ef6ef9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DJ/main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/.idea/mysite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/mysite/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/mysite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/mysite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/mysite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/polls/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/polls/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/polls/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/polls/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/polls/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/polls/static/polls/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/polls/templates/polls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/polls/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/polls/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/polls/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DJ/main/templates/admin/base_site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mysite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/static/main/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="2be20632-607f-423c-ac64-e911d2e18552" />
+  <component name="ProjectId" id="1hKIvEl83xoi98XZMLorRxqETG6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager">
+    <configuration name="mysite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58b35b2d-b7ce-4bca-86d7-4efef9ef6ef9" name="Default Changelist" comment="" />
+      <created>1599753585874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599753585874</updated>
+      <workItem from="1599753586947" duration="4227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1599759532740">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1599759532740" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1599759532739">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1599759532739" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1599759532739">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1599759532739" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1599759532740">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1599759532740" />
+  </component>
+</project>
